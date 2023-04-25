@@ -1,2 +1,2 @@
 # test-repo
-#this is a build test for Jenkins 6
+#this is a build test for Jenkins 7
